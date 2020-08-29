@@ -232,8 +232,8 @@
         display:none;
         position: absolute;
         cursor:pointer;
-        right:25%;
-        left:35px;
+        right:5%;
+        left:15px;
         top:10px;
     }
     .line{
