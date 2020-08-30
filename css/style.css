@@ -244,6 +244,7 @@
     }
     .nav-list{flex-direction: column;}
     .navbar{
+        position:static;
         transition:all 0.3s ease-out;
         height:97vh;
         flex-direction: column;
